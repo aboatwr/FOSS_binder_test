@@ -1,0 +1,2 @@
+wget -q -O precip.mon.total.v501.nc "https://psl.noaa.gov/repository/entry/get/precip.mon.total.v501.nc?entryid=synth%3Ae570c8f9-ec09-4e89-93b4-babd5651e7a9%3AL3VkZWwuYWlydC5wcmVjaXAvcHJlY2lwLm1vbi50b3RhbC52NTAxLm5j
+wget -q -O air.mon.mean.v501.nc https://psl.noaa.gov/repository/entry/get/air.mon.mean.v501.nc?entryid=synth%3Ae570c8f9-ec09-4e89-93b4-babd5651e7a9%3AL3VkZWwuYWlydC5wcmVjaXAvYWlyLm1vbi5tZWFuLnY1MDEubmM%3D
